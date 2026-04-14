@@ -1,0 +1,1 @@
+This problem helped me understand SQL filtering, aggregation, and ordering.
